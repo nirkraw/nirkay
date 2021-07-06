@@ -1221,11 +1221,11 @@ footer .copy-right {
 }
 
 .img-background {
-	background-image: url("../img//nirkay/delancey2.JPG");
+	background-image: url("../img/nirkay/delancey2.JPG");
 	background-color: rgb(148, 148, 148);
   	background-blend-mode: lighten;
 	background-repeat: no-repeat;
-	background-position: -1000px 115px;
+	background-position: -1000px 0px;
 	background-size: cover;
 }
 
