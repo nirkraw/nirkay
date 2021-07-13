@@ -1241,3 +1241,8 @@ footer .copy-right {
 .black-background {
 	background-color: black;
 }
+
+.btn-cust {
+	padding: 8px 12px;
+	font-size: 18px;
+}
